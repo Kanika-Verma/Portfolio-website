@@ -293,7 +293,7 @@ textarea{
     margin-top: -1rem;
     margin-left: -1rem;
 }
-.submit{
+button{
     font-weight: bold;
     font-size: 1rem;
     padding: 1.2rem;
@@ -301,7 +301,7 @@ textarea{
     background-color: rgb(104, 233, 233);
     cursor: pointer;
 }
-.submit:visited{
+button:visited{
     font-weight: bold;
     font-size: 1rem;
     padding: 0.5rem;
