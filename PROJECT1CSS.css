@@ -299,7 +299,6 @@ button{
     padding: 1.2rem;
     border-radius: 1rem;
     background-color: rgb(104, 233, 233);
-    cursor: pointer;
 }
 button:visited{
     font-weight: bold;
